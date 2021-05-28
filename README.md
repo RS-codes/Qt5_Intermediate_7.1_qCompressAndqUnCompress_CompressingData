@@ -1,3 +1,5 @@
 # Qt5_Intermediate_7.1_qCompressAndqUnCompress_CompressingData
 
-#SourceCode to be added soon
+#Under qCompress and qUncompress Compressing data discussed and
+
+#SourceCode added 
